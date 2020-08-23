@@ -1,6 +1,6 @@
-# age-to-minutes
+# Age to Minutes
 
-Kisakita is an app for story writing collaboration. You write story together with your friends, or even total strangers, in a turn-based manner. This repository is a monolith backend written in Go, with these software engineering principles in mind:
+Age to Minutes is a simple native Android app written in Kotlin with API 16 (Android SDK 10). This is part of my learning to Kotlin programming and Android app development.
 
 ## Attribution
 
