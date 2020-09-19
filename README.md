@@ -4,4 +4,4 @@ Age to Minutes is a simple native Android app written in Kotlin with API 16 (And
 
 ## App Screenshot
 
-<img src="https://github.com/ianadiwibowo/age-to-minutes/raw/master/img/age-to-minutes-screenshot-01.png" width="300" alt="App Screenshot" />
+<img src="https://github.com/ianadiwibowo/age-to-minutes/raw/master/img/age-to-minutes-screenshot-01.png" width="200" alt="App Screenshot" />
